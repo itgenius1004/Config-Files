@@ -9,14 +9,15 @@ The HTTP service has resources in the following form:
 /{label}/{application}-{profile}.properties<br/>
 
 
-
 * Config Samples
-  
+  - myclient-test.properties
+  - myclient-test2.yml
+      
 * Development
-  - config-dev.properties
+  - myapp-dev.properties
   
 * Testing
-  - config-test.properties
+  - myapp-test.properties
 
 * Production
-  - config-prd.properties
+  - myapp-prd.properties
