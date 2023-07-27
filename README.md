@@ -8,6 +8,15 @@ The HTTP service has resources in the following form:
 /{application}-{profile}.properties<br/>
 /{label}/{application}-{profile}.properties<br/>
 
+For example:
+
+curl localhost:8888/foo/development<br/>
+curl localhost:8888/foo/development/master<br/>
+curl localhost:8888/foo/development,db/master<br/>
+curl localhost:8888/foo-development.yml<br/>
+curl localhost:8888/foo-db.properties<br/>
+curl localhost:8888/master/foo-db.properties<br/>
+
 
 * Config Samples
   - myclient-test.properties
