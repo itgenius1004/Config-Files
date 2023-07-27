@@ -1,10 +1,14 @@
 # config-files
 
+* Config Samples
+  - test-config.properties
+  - test-config2.properties
+
 * Development
-  - config-dev
+  - config-dev.properties
   
 * Testing
-  - config-test
+  - config-test.properties
 
 * Production
-  - config-prd
+  - config-prd.properties
