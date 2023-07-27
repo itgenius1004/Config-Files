@@ -1,2 +1,3 @@
-name="Dennis Lee"
-email="itgenius1004@gmail.com"
+user:
+  name: "Dennis Lee"
+  email: "itgenius1004@gmail.com"
