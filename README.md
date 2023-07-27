@@ -7,4 +7,4 @@
   - config-test
 
 * Production
-  - config-pro
+  - config-prd
