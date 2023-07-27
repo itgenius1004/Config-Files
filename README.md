@@ -11,9 +11,7 @@ The HTTP service has resources in the following form:
 
 
 * Config Samples
-  - test-config.properties
-  - test-config2.properties
-
+  
 * Development
   - config-dev.properties
   
