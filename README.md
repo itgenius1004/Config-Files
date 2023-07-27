@@ -1,10 +1,10 @@
 # config-files
 
 * Development
-- config-dev
+  - config-dev
   
 * Testing
-- config-test
+  - config-test
 
 * Production
-- config-pro
+  - config-pro
